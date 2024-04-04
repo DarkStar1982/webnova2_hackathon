@@ -1,7 +1,7 @@
-# Exodus Orbitals SDK toolkit
+# Exodus Orbitals Platform/SDK toolkit
 
 ## Intro
-This repository contains the SDK to allow easier interaction with Exodus Orbitals's API. For more details about the API, refer to the **swagger file**.
+This repository contains the SDK to allow easier interaction with Exodus Orbitals's API and UI. For more details about the API, refer to the **swagger file**.
 
 ## Using the API
 The API allows you to request satellite data by requesting a specific sensor/device. The goal is to **create a satellite mission** every time a sensor is to be used. 
