@@ -5,12 +5,12 @@ This repository contains the SDK to allow easier interaction with Exodus Orbital
 
 ## Hints for solving the challenge
 Identify the timeframe for the mission and number of passes. After getting configuration file and docker template, add you code to the folder that will launch after all data has been acquired. Once you have processed the data, store your results in the output folder.
-Step 1. Configure the mission parameters (time, place (target), number of passes)
-Step 2. Get the template file pre-configured for mission operations with training data
-Step 3. Add your code 
-Step 4. Submit your code via SFTP script
-???? (Mission execution happens here)
-Step 5. Receive real output data
+* Step 1. Configure the mission parameters (time, place (target), number of passes)
+* Step 2. Get the template file pre-configured for mission operations with training data
+* Step 3. Add your code 
+* Step 4. Submit your code via SFTP script
+* ???? (Mission execution happens here)
+* Step 5. Receive real output data
 
 ## Using the API
 The API allows you to configure your code for the specific mission, while the actual execution happens during the time when it is most convinient for the satellite operator.
